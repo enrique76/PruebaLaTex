@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.16)  5 JUL 2022 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.16)  5 JUL 2022 16:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -102,27 +102,67 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen154
 \Gm@layoutvoffset=\dimen155
 \Gm@dimlist=\toks24
- (D:\MikText\Nueva carpeta\tex/latex/geometry\geometry.cfg)) (D:\MikText\Nueva carpeta\tex/latex/l3backend\l3backend-pdftex.def
+ (D:\MikText\Nueva carpeta\tex/latex/geometry\geometry.cfg)) (D:\MikText\Nueva carpeta\tex/generic/babel\babel.sty
+Package: babel 2022/04/30 3.74 The Babel package
+\babel@savecnt=\count274
+\U@D=\dimen156
+\l@unhyphenated=\language79
+ (D:\MikText\Nueva carpeta\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count275
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MikText\Nueva carpeta\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (D:\MikText\Nueva carpeta\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks25
+\es@quotdepth=\count276
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (D:\MikText\Nueva carpeta\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\MikText\Nueva carpeta\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (D:\MikText\Nueva carpeta\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (D:\MikText\Nueva carpeta\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (D:\MikText\Nueva carpeta\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (D:\MikText\Nueva carpeta\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
+\l__color_backend_stack_int=\count277
 \l__pdf_internal_box=\box52
-) (c:\Users\enriq\OneDrive\Escritorio\LaTex\build\main.aux)
+) (c:\Users\enriq\OneDrive\Escritorio\LaTex\build\main.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -158,21 +198,50 @@ LaTeX Font Info:    ... okay on input line 13.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+(D:\MikText\Nueva carpeta\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen159
+\scratchbox=\box53
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen160
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks27
+) (D:\MikText\Nueva carpeta\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (D:\MikText\Nueva carpeta\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<img/OIP.jpg, id=1, 475.7775pt x 266.9975pt>
+File: img/OIP.jpg Graphic file (type jpg)
+<use img/OIP.jpg>
+Package pdftex.def Info: img/OIP.jpg  used on input line 25.
+(pdftex.def)             Requested size: 237.88815pt x 133.49841pt.
+ [1
 
-{C:/Users/enriq/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\enriq\OneDrive\Escritorio\LaTex\build\main.aux) ) 
+{C:/Users/enriq/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/OIP.jpg>] (c:\Users\enriq\OneDrive\Escritorio\LaTex\build\main.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
 Here is how much of TeX's memory you used:
- 1785 strings out of 478614
- 28470 string characters out of 2852468
- 324983 words of memory out of 3000000
- 19972 multiletter control sequences out of 15000+600000
+ 3930 strings out of 478614
+ 62078 string characters out of 2852468
+ 374362 words of memory out of 3000000
+ 22069 multiletter control sequences out of 15000+600000
  472968 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,262b,193s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,7n,62p,262b,363s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikText/Nueva carpeta/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on c:\Users\enriq\OneDrive\Escritorio\LaTex\build\main.pdf (1 page, 34801 bytes).
+Output written on c:\Users\enriq\OneDrive\Escritorio\LaTex\build\main.pdf (1 page, 70380 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
